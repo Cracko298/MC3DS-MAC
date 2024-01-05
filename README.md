@@ -6,7 +6,7 @@
 - **Then copy over your Material Attribute Files (.material, .material3ds, .images, .dat, .mat) in the newly created: "[mc3ds_files](https://github.com/Cracko298/MC3DS-MAC)" Folder.**
 - **Enter the Application again, and now each file should have a newer generated file with the extension of ".json".**
 
-# Building:
+## Building:
 - **Requires Devkitpro v3.0.3 or higher and the Basic 3DS SDK from it.**
 
 ### Banner:
