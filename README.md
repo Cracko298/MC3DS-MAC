@@ -40,6 +40,7 @@
 - **Material Attribute Files for Converting into .JSON Format.**
 
 ## Credit(s):
+- **[Cracko298](https://github.com/Cracko298) Development of this Homebrew Application.**
 - **Steveice10 for [bannertool](https://github.com/Steveice10/bannertool).**
 - **PabloMK7 for [cwavtool](https://github.com/PabloMK7/cwavtool).**
 - **3DSGuy for [Project_CTR (makerom)](https://github.com/3DSGuy/Project_CTR).**
