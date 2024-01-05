@@ -1,6 +1,7 @@
 # MC3DS-MAC
 - **A 3DS (Nintendo 3DS) Homebrew Application that converts Material Attribute Files from MC-3DS Edition to  .json**
 - **I spent too much invested time into this App.**
+- **Has compatibility with Citra on both <ins>PC, & Android</ins>.**
 
 ## Usage:
 - **After downloading and installing the compiled .cia/.3dsx Open the application once to create a folder on the system SDHC Card.**
