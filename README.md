@@ -14,7 +14,7 @@
 ### Don't have an SD Reader or a FTP Server?
 - **I have you covered!**
 <center>
-  <img src="https://github.com/Cracko298/MC3DS-MAC/blob/main/imgs/frame.png">
+    https://github.com/Cracko298/MC3DS-MAC/blob/main/imgs/frame.png
 </center>
 
 
