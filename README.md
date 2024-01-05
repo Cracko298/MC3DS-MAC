@@ -12,7 +12,7 @@
 - **Download Source .elf File [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.elf).**
 
 ### Don't have an SD Reader or a FTP Server?
-- **I have you covered, Click [Here](https://raw.githubusercontent.com/Cracko298/MC3DS-MAC/main/imgs/frame.png) for a Direct QR-Code Download.**
+- **I have you covered, Click [Here](https://raw.githubusercontent.com/Cracko298/MC3DS-MAC/main/imgs/frame.png) for a __Direct QR-Code__ Download.**
 
 ## Building:
 - **Requires Devkitpro v3.0.3 or higher and the Basic 3DS SDK from it.**
