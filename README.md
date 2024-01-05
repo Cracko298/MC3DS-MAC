@@ -12,6 +12,7 @@
 - **Download Standalone .cia [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.cia).**
 - **Download HB Launcher .3dsx [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.3dsx).**
 - **Download Source .elf File [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.elf).**
+- **A Standalone Application for "Windows x64" is avaliable [Here](https://github.com/Cracko298/MC3DS-Material-Converter).**
 
 ### Don't have an SD Reader or a FTP Server?
 - **I have you covered, Click [Here](https://raw.githubusercontent.com/Cracko298/MC3DS-MAC/main/imgs/frame.png) for a <ins>Direct QR-Code</ins> Download.**
