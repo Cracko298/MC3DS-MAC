@@ -3,4 +3,4 @@
 
 ## Usage:
 - **After downloading and installing the compiled .cia/.3dsx Open the application once to create a folder on the system SDHC Card.**
-- **Then copy over your Material Attribute Files (.material, .material3ds, .images, .dat, .mat) in the newly created: '__mc3ds_files__' Folder.**
+- **Then copy over your Material Attribute Files (.material, .material3ds, .images, .dat, .mat) in the newly created: 'mc3ds_files' Folder.**
