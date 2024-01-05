@@ -11,6 +11,13 @@
 - **Download HB Launcher .3dsx [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.3dsx).**
 - **Download Source .elf File [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.elf).**
 
+### Don't have an SD Reader or a FTP Server?
+- **I have you covered!**
+<center>
+  ![frame](https://github.com/Cracko298/MC3DS-MAC/assets/78656905/579a04cd-2016-4c27-88a7-7fd017258aac)
+</center>
+
+
 ## Building:
 - **Requires Devkitpro v3.0.3 or higher and the Basic 3DS SDK from it.**
 
