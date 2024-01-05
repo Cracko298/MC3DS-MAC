@@ -25,3 +25,8 @@
 ```
 .\makerom.exe -f cia -o MC3DS-MAC.cia -elf MC3DS-MAC.elf -rsf files.rsf -icon icon.smdh -banner banner.bnr -major 1 -minor 2 -micro 2
 ```
+
+## Requirement(s):
+- **A Homebrewed/Hacked 3DS Console with access to CFW and a Title Installer, or Homebrew Launcher.**
+- **An SDHC Card that's being used for your 3DS Games.**
+- **Material Attribute Files for Converting into .JSON Format.**
