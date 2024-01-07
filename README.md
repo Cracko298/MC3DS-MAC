@@ -34,7 +34,7 @@
 ```
 ### MakeRom
 ```
-.\makerom.exe -f cia -o MC3DS-MAC.cia -elf MC3DS-MAC.elf -rsf files.rsf -icon icon.smdh -banner banner.bnr -major 1 -minor 2 -micro 2
+.\makerom.exe -f cia -o MC3DS-MAC.cia -elf mc3ds-mac.elf -rsf files.rsf -icon icon.smdh -banner banner.bnr -major 1 -minor 3 -micro 9
 ```
 
 ## Requirement(s):
