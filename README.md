@@ -9,9 +9,9 @@
 - **Enter the Application again, and now each file should have a newer generated file with the extension of ".json".**
 
 ## Download(s):
-- **Download Standalone .cia [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.cia).**
-- **Download HB Launcher .3dsx [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.3dsx).**
-- **Download Source .elf File [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.2.2/MC3DS-MAC.elf).**
+- **Download Standalone .cia [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.3.9/MC3DS-MAC.cia).**
+- **Download HB Launcher .3dsx [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.3.9/mc3ds-mac.3dsx).**
+- **Download Source .elf File [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.3.9/mc3ds-mac.elf).**
 - **A Standalone Application for "Windows x64" is avaliable [Here](https://github.com/Cracko298/MC3DS-Material-Converter).**
 
 ### Don't have an SD Reader or a FTP Server?
