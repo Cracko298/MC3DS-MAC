@@ -7,7 +7,6 @@
 - **After downloading and installing the compiled .cia/.3dsx Open the application once to create a folder on the system SDHC Card.**
 - **Then copy over your Material Attribute Files (.material, .material3ds, .images, .dat, .mat, .bak) in the newly created: "[./mc3ds_files/attribute_conv](https://github.com/Cracko298/MC3DS-MAC)" Folder.**
 - **Enter the Application again, and now each file should have a newer generated file with the extension of ".json".**
-- 
 
 ## Download(s):
 - **Download Standalone .cia [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.4.1/MC3DS-MAC.cia).**
