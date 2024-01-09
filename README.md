@@ -13,7 +13,7 @@
 - **Download Standalone .cia [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.4.1/MC3DS-MAC.cia).**
 - **Download HB Launcher .3dsx [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.4.1/mc3ds-mac.3dsx).**
 - **Download Source .elf File [Here](https://github.com/Cracko298/MC3DS-MAC/releases/download/v1.4.1/mc3ds-mac.elf).**
-- **MC3DS-MAC is also now avaliable on the Mincraft 3DS Unistore!!!** 
+- **MC3DS-MAC is also now avaliable for download on the [Mincraft 3DS Unistore](https://github.com/Minecraft-3DS-Community/minecraft-3ds-unistore)!!!** 
 - **A Standalone Application for "Windows x64" is avaliable [Here](https://github.com/Cracko298/MC3DS-Material-Converter).**
 
 ### Don't have an SD Reader or a FTP Server?
