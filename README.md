@@ -21,6 +21,7 @@
 ## Building:
 - **Requires Devkitpro v3.0.3 or higher and the Basic 3DS SDK from it.**
 
+
 ### Banner:
 ```
 .\bannertool.exe makebanner -i "banner_ico.png" -ca "banner.bcwav" -o "banner.bnr"
